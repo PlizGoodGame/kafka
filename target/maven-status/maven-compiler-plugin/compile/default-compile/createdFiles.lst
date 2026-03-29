@@ -1,0 +1,5 @@
+com\example\kafka\KafkaConsumerService.class
+com\example\controller\NotificationController.class
+com\example\service\EmailService.class
+com\example\Main.class
+com\example\event\UserEvent.class
